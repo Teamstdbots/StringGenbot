@@ -3,10 +3,10 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/STD-DEEPANSHU"><img alt="Website" src="https://img.shields.io/badge/𝐃𝐄𝐄𝐏𝐀𝐍𝐒𝐇𝐔-blue"></a>
+  <a href="https://github.com/Teamstdbots"><img alt="Website" src="https://img.shields.io/badge/𝐃𝐄𝐄𝐏𝐀𝐍𝐒𝐇𝐔-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/STD-DEEPANSHU/StringGenBot?style=social)](https://github.com/STD-DEEPANSHU/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/STD-DEEPANSHU/StringGenBot?style=social)](https://github.com/STD-DEEPANSHU/StringGenBot/fork)
+[![Stars](https://img.shields.io/github/stars/STD-DEEPANSHU/StringGenBot?style=social)](https://github.com/Teamstdbots/StringGenBot/stargazers)
+  [![Forks](https://img.shields.io/github/forks/STD-DEEPANSHU/StringGenBot?style=social)](https://github.com/Teamstdbots/StringGenBot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,7 +25,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/STD-DEEPANSHU/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Teamstdbots/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -45,6 +45,6 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝐃𝐄𝐄𝐏𝐀𝐍𝐒𝐇𝐔](https://github.com/STD-DEEPANSHU)
+- » [𝐃𝐄𝐄𝐏𝐀𝐍𝐒𝐇𝐔](https://github.com/Teamstdbots)
 - » [Pyrogram Devs](https://github.com/pyrogram) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [LonamiWebs](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
