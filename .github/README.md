@@ -5,8 +5,8 @@
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/Teamstdbots"><img alt="Website" src="https://img.shields.io/badge/𝐃𝐄𝐄𝐏𝐀𝐍𝐒𝐇𝐔-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/STD-DEEPANSHU/StringGenBot?style=social)](https://github.com/Teamstdbots/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/STD-DEEPANSHU/StringGenBot?style=social)](https://github.com/Teamstdbots/StringGenBot/fork)
+[![Stars](https://img.shields.io/github/stars/Teamstdbots/StringGenBot?style=social)](https://github.com/Teamstdbots/StringGenBot/stargazers)
+  [![Forks](https://img.shields.io/github/forks/Teamstdbots/StringGenBot?style=social)](https://github.com/Teamstdbots/StringGenBot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
